@@ -44,8 +44,6 @@ int main () {
         cavalo2++;
     }
 
-    printf("gay");
-
     return 0;
 
 }
